@@ -16,7 +16,7 @@ Link to the book:
 https://docs.google.com/file/d/0B78A_rsP6RDSVjBTa1ZUSXBGYzA/edit?resourcekey=0-ieDlJmoTUv2WllxQDQcY2Q
 
 Link to the book chapter:
-Chapter 6
+https://drive.google.com/file/d/1Rsds-NYkcHO2L-z1kCMQ7ZlPN2fjsHtp/view?usp=sharing
 
 Group Number:
 20
