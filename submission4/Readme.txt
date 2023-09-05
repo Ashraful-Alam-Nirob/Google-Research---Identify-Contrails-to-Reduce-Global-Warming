@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3217786655cpywhryppwgg
 
 Unlisted YouTube video:
-
+https://www.youtube.com/watch?v=6-WG-eWvq1I
 
 Paper title:
 Contrail Analysis through Advanced Neural Network Architectures: Image Segmentation and Classification
