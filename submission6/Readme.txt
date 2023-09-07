@@ -14,16 +14,18 @@ Paper presentation (anyone can view without login):
 https://www.overleaf.com/read/wjsrcvyjgdtj
 
 Paper submission date (to workshop/conference):
+08-09-2023
 
 
 Paper submission ID: (received) from conference/workshop
+331
 
 
 Conference Name:
-
+26th International Conference on Computer and Information Technology
 
 Conference URL:
-
+https://iccit.org.bd/2023/paper-submission-guidelines/?fbclid=IwAR1fx7kzTJ5DitkR946IQu5U6-c2kX8AGEl9xcJM5kIfL2lhpGSGr_Zkm-0
 
 Group Number:
 20
