@@ -1,3 +1,8 @@
+Paper Link : 
+
+https://www.researchgate.net/publication/378537460_Contrail_Analysis_through_Advanced_Neural_Network_Architectures_Image_Segmentation_and_Classification
+
+
 # Identify-Contrails-to-Reduce-Global-Warming
 
 Slides Link With Permission Anyone can view:
